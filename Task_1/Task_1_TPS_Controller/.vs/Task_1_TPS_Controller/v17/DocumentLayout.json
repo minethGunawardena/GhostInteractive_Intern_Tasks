@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\GHOST INTERCTIVE\\Programmer Internhip\\Task_1\\Task_1_TPS_Controller\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE8CB15F-4655-7B1F-8A7E-91D3CF191BEB}|Assembly-CSharp.csproj|F:\\GHOST INTERCTIVE\\Programmer Internhip\\Task_1\\Task_1_TPS_Controller\\assets\\tps_controller\\scripts\\newinventorysystem\\scriptable_objects\\inventories\\playerinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE8CB15F-4655-7B1F-8A7E-91D3CF191BEB}|Assembly-CSharp.csproj|solutionrelative:assets\\tps_controller\\scripts\\newinventorysystem\\scriptable_objects\\inventories\\playerinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE8CB15F-4655-7B1F-8A7E-91D3CF191BEB}|Assembly-CSharp.csproj|F:\\GHOST INTERCTIVE\\Programmer Internhip\\Task_1\\Task_1_TPS_Controller\\assets\\tps_controller\\ui\\scripts\\displayinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE8CB15F-4655-7B1F-8A7E-91D3CF191BEB}|Assembly-CSharp.csproj|solutionrelative:assets\\tps_controller\\ui\\scripts\\displayinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE8CB15F-4655-7B1F-8A7E-91D3CF191BEB}|Assembly-CSharp.csproj|f:\\ghost interctive\\programmer internhip\\task_1\\task_1_tps_controller\\assets\\tps_controller\\scripts\\newinventorysystem\\scriptable_objects\\items\\interactableitemobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE8CB15F-4655-7B1F-8A7E-91D3CF191BEB}|Assembly-CSharp.csproj|solutionrelative:assets\\tps_controller\\scripts\\newinventorysystem\\scriptable_objects\\items\\interactableitemobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE8CB15F-4655-7B1F-8A7E-91D3CF191BEB}|Assembly-CSharp.csproj|f:\\ghost interctive\\programmer internhip\\task_1\\task_1_tps_controller\\assets\\tps_controller\\scripts\\player\\interactsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE8CB15F-4655-7B1F-8A7E-91D3CF191BEB}|Assembly-CSharp.csproj|solutionrelative:assets\\tps_controller\\scripts\\player\\interactsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE8CB15F-4655-7B1F-8A7E-91D3CF191BEB}|Assembly-CSharp.csproj|F:\\GHOST INTERCTIVE\\Programmer Internhip\\Task_1\\Task_1_TPS_Controller\\assets\\tps_controller\\scripts\\player\\playerinputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE8CB15F-4655-7B1F-8A7E-91D3CF191BEB}|Assembly-CSharp.csproj|solutionrelative:assets\\tps_controller\\scripts\\player\\playerinputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE8CB15F-4655-7B1F-8A7E-91D3CF191BEB}|Assembly-CSharp.csproj|F:\\GHOST INTERCTIVE\\Programmer Internhip\\Task_1\\Task_1_TPS_Controller\\assets\\tps_controller\\scripts\\newinventorysystem\\items\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE8CB15F-4655-7B1F-8A7E-91D3CF191BEB}|Assembly-CSharp.csproj|solutionrelative:assets\\tps_controller\\scripts\\newinventorysystem\\items\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InteractableItemObject.cs",
+              "DocumentMoniker": "F:\\GHOST INTERCTIVE\\Programmer Internhip\\Task_1\\Task_1_TPS_Controller\\Assets\\TPS_Controller\\Scripts\\NewInventorySystem\\Scriptable_Objects\\Items\\InteractableItemObject.cs",
+              "RelativeDocumentMoniker": "Assets\\TPS_Controller\\Scripts\\NewInventorySystem\\Scriptable_Objects\\Items\\InteractableItemObject.cs",
+              "ToolTip": "F:\\GHOST INTERCTIVE\\Programmer Internhip\\Task_1\\Task_1_TPS_Controller\\Assets\\TPS_Controller\\Scripts\\NewInventorySystem\\Scriptable_Objects\\Items\\InteractableItemObject.cs",
+              "RelativeToolTip": "Assets\\TPS_Controller\\Scripts\\NewInventorySystem\\Scriptable_Objects\\Items\\InteractableItemObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T05:28:34.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerInputManager.cs",
+              "DocumentMoniker": "F:\\GHOST INTERCTIVE\\Programmer Internhip\\Task_1\\Task_1_TPS_Controller\\Assets\\TPS_Controller\\Scripts\\Player\\PlayerInputManager.cs",
+              "RelativeDocumentMoniker": "Assets\\TPS_Controller\\Scripts\\Player\\PlayerInputManager.cs",
+              "ToolTip": "F:\\GHOST INTERCTIVE\\Programmer Internhip\\Task_1\\Task_1_TPS_Controller\\Assets\\TPS_Controller\\Scripts\\Player\\PlayerInputManager.cs",
+              "RelativeToolTip": "Assets\\TPS_Controller\\Scripts\\Player\\PlayerInputManager.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAgwBIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T04:52:57.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DisplayInventory.cs",
+              "DocumentMoniker": "F:\\GHOST INTERCTIVE\\Programmer Internhip\\Task_1\\Task_1_TPS_Controller\\Assets\\TPS_Controller\\UI\\Scripts\\DisplayInventory.cs",
+              "RelativeDocumentMoniker": "Assets\\TPS_Controller\\UI\\Scripts\\DisplayInventory.cs",
+              "ToolTip": "F:\\GHOST INTERCTIVE\\Programmer Internhip\\Task_1\\Task_1_TPS_Controller\\Assets\\TPS_Controller\\UI\\Scripts\\DisplayInventory.cs",
+              "RelativeToolTip": "Assets\\TPS_Controller\\UI\\Scripts\\DisplayInventory.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwEsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T04:14:10.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Item.cs",
+              "DocumentMoniker": "F:\\GHOST INTERCTIVE\\Programmer Internhip\\Task_1\\Task_1_TPS_Controller\\Assets\\TPS_Controller\\Scripts\\NewInventorySystem\\Items\\Item.cs",
+              "RelativeDocumentMoniker": "Assets\\TPS_Controller\\Scripts\\NewInventorySystem\\Items\\Item.cs",
+              "ToolTip": "F:\\GHOST INTERCTIVE\\Programmer Internhip\\Task_1\\Task_1_TPS_Controller\\Assets\\TPS_Controller\\Scripts\\NewInventorySystem\\Items\\Item.cs",
+              "RelativeToolTip": "Assets\\TPS_Controller\\Scripts\\NewInventorySystem\\Items\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T03:13:57.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerInventory.cs",
+              "DocumentMoniker": "F:\\GHOST INTERCTIVE\\Programmer Internhip\\Task_1\\Task_1_TPS_Controller\\Assets\\TPS_Controller\\Scripts\\NewInventorySystem\\Scriptable_Objects\\Inventories\\PlayerInventory.cs",
+              "RelativeDocumentMoniker": "Assets\\TPS_Controller\\Scripts\\NewInventorySystem\\Scriptable_Objects\\Inventories\\PlayerInventory.cs",
+              "ToolTip": "F:\\GHOST INTERCTIVE\\Programmer Internhip\\Task_1\\Task_1_TPS_Controller\\Assets\\TPS_Controller\\Scripts\\NewInventorySystem\\Scriptable_Objects\\Inventories\\PlayerInventory.cs",
+              "RelativeToolTip": "Assets\\TPS_Controller\\Scripts\\NewInventorySystem\\Scriptable_Objects\\Inventories\\PlayerInventory.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwCcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T03:07:48.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InteractSystem.cs",
+              "DocumentMoniker": "F:\\GHOST INTERCTIVE\\Programmer Internhip\\Task_1\\Task_1_TPS_Controller\\Assets\\TPS_Controller\\Scripts\\Player\\InteractSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\TPS_Controller\\Scripts\\Player\\InteractSystem.cs",
+              "ToolTip": "F:\\GHOST INTERCTIVE\\Programmer Internhip\\Task_1\\Task_1_TPS_Controller\\Assets\\TPS_Controller\\Scripts\\Player\\InteractSystem.cs",
+              "RelativeToolTip": "Assets\\TPS_Controller\\Scripts\\Player\\InteractSystem.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAmwCoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T10:12:57.02Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

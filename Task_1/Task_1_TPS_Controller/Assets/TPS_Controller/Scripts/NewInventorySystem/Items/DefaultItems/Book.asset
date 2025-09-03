@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 828db688ddd6ab0429bb1ff91701a7a5, type: 3}
+  m_Name: Book
+  m_EditorClassIdentifier: 
+  itemId: D001
+  itemName: Book
+  itemType: 3
+  maxItemCapacity: 99
+  canStack: 1
+  itemPrefab: {fileID: 3612947264869007386, guid: 9eda38fed7e25964bb578592a9291ee2, type: 3}
+  itemIcon: {fileID: 21300000, guid: 1c82fa18a9230df4f9a0aa981fe3a341, type: 3}
+  itemDiscription: Just an Old Radio.....
