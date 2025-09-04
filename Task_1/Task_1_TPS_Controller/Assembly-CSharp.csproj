@@ -61,19 +61,20 @@
     <Analyzer Include="F:\Unity\Editors\6000.0.39f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.UIToolkit.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\TPS_Controller\Scripts\NewInventorySystem\Scriptable_Objects\Items\ConsumableItemScriptableObject.cs" />
-    <Compile Include="Assets\TPS_Controller\Scripts\NewInventorySystem\Scriptable_Objects\Inventories\PlayerInventory.cs" />
-    <Compile Include="Assets\TPS_Controller\UI\Scripts\DisplayInventory.cs" />
-    <Compile Include="Assets\TPS_Controller\Scripts\Player\playerMovement.cs" />
-    <Compile Include="Assets\TPS_Controller\Scripts\Player\PlayerInputManager.cs" />
-    <Compile Include="Assets\TPS_Controller\Scripts\NewInventorySystem\Scriptable_Objects\Items\DefaultItemScriptableObject.cs" />
-    <Compile Include="Assets\TPS_Controller\Scripts\Player\FollowPlayer.cs" />
-    <Compile Include="Assets\TPS_Controller\Scripts\NewInventorySystem\Scriptable_Objects\Items\InteractableItemObject.cs" />
-    <Compile Include="Assets\TPS_Controller\Scripts\NewInventorySystem\Items\Item.cs" />
-    <Compile Include="Assets\TPS_Controller\Scripts\Player\Inventory.cs" />
-    <Compile Include="Assets\TPS_Controller\Scripts\Player\InteractSystem.cs" />
-    <Compile Include="Assets\TPS_Controller\Scripts\NewInventorySystem\Scriptable_Objects\Items\EquipmentItemScriptableObject.cs" />
-    <Compile Include="Assets\TPS_Controller\Input_Settings\PlayerInputActions.cs" />
+    <Compile Include="Assets\Scripts\NewInventorySystem\Scriptable_Objects_Scripts\Items\DefaultItemScriptableObject.cs" />
+    <Compile Include="Assets\Scripts\Player\Inventory.cs" />
+    <Compile Include="Assets\Scripts\Player\IK_Stuff\Foot_placement.cs" />
+    <Compile Include="Assets\Scripts\NewInventorySystem\Scriptable_Objects_Scripts\Inventories\PlayerInventory.cs" />
+    <Compile Include="Assets\Scripts\NewInventorySystem\Scriptable_Objects_Scripts\Items\InteractableItemObject.cs" />
+    <Compile Include="Assets\Input_Settings\PlayerInputActions.cs" />
+    <Compile Include="Assets\Scripts\Player\FollowPlayer.cs" />
+    <Compile Include="Assets\Scripts\Player\playerMovement.cs" />
+    <Compile Include="Assets\ScriptableObjects\Player\Items\Item.cs" />
+    <Compile Include="Assets\UI\Scripts\DisplayInventory.cs" />
+    <Compile Include="Assets\Scripts\Player\PlayerInputManager.cs" />
+    <Compile Include="Assets\Scripts\Player\InteractSystem.cs" />
+    <Compile Include="Assets\Scripts\NewInventorySystem\Scriptable_Objects_Scripts\Items\EquipmentItemScriptableObject.cs" />
+    <Compile Include="Assets\Scripts\NewInventorySystem\Scriptable_Objects_Scripts\Items\ConsumableItemScriptableObject.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Cainos\Pixel Art Icon Pack - RPG\Shader\SH UI Icon Outline Color.shader" />
@@ -1099,6 +1100,10 @@
       <HintPath>Library\ScriptAssemblies\Unity.AI.Navigation.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="Unity.Animation.Rigging.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.Animation.Rigging.Editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="Unity.RenderPipeline.Universal.ShaderLibrary">
       <HintPath>Library\ScriptAssemblies\Unity.RenderPipeline.Universal.ShaderLibrary.dll</HintPath>
       <Private>False</Private>
@@ -1193,6 +1198,10 @@
     </Reference>
     <Reference Include="Unity.Collections.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.Collections.Editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.Animation.Rigging">
+      <HintPath>Library\ScriptAssemblies\Unity.Animation.Rigging.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary">
